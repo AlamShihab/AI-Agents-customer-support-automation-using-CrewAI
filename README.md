@@ -26,7 +26,10 @@ The **AI Agents Customer Support Automation** project is designed to enhance you
 
 - **Python 3.7 or higher**
 - A valid **OpenAI API key**
-- All required dependencies listed in the `requirements.txt` file
+- All required dependencies listed below
+     - openai>=0.27.0
+     - requests>=2.26.0
+
 
 ### Installation 📦
 
